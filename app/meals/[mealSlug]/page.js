@@ -1,3 +1,8 @@
-export default function(){
-  return <h1>Meal Details</h1>
+export default function () {
+  return (
+    <>
+      <header></header>
+      <main></main>
+    </>
+  );
 }
